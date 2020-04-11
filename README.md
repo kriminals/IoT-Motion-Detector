@@ -10,3 +10,5 @@ Any time that a movement is detected by the sensor, the green LED lights up and 
 * Cables
 
 ![Motion detector](motion-detection.jpg)
+
+![Motion detector](motion-detection-up.jpg)
